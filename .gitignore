@@ -1,0 +1,7 @@
+/.env
+/.vscode
+/data/*
+/www/**
+.DS_Store
+/buildtest
+.idea
