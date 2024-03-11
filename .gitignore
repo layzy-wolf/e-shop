@@ -1,7 +1,6 @@
 /.env
 /.vscode
 /data/*
-/www/**
 /logs
 .DS_Store
 /buildtest
